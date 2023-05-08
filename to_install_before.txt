@@ -1,0 +1,2 @@
+sudo pip3 install faker scapy
+sudo apt-get install figlet
